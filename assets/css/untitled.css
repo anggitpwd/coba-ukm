@@ -1,0 +1,16 @@
+.page.landing-page {
+  position: relative;
+}
+
+.page-footer.dark {
+  position: absolute;
+}
+
+#footerpad {
+  position: fixed;
+}
+
+.copyright {
+  font-size: 12px;
+}
+
